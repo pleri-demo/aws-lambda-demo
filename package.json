@@ -1,0 +1,14 @@
+{
+  "name": "large-lockfile-project",
+  "version": "1.0.0",
+  "description": "Project designed to generate a large lock file (>1MB)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "react-scripts build",
+    "test": "react-scripts test"
+  },
+  "dependencies": {
+    "react-scripts": "^0.0.0"
+  }
+}
